@@ -1,4 +1,4 @@
-# Nakopni Prahu App
+# 📐 Nakopni Prahu App
 
 This app was created as part of workshop for Nakopni Prahy inovathon
 
